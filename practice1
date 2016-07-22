@@ -1,0 +1,6 @@
+a <- available.packages();
+
+head (rownames(a), 5)      //it will list the first 5 packages in the function available.
+
+CRAN has 
+install
